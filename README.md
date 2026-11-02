@@ -536,6 +536,7 @@ algorithms, knowledgebase and AI technology.
 
 * [the-endorser](https://github.com/eth0izzle/the-endorser) - Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
 * [LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Script to dump/scrape/extract company employees info from LinkedIn API.
+* [LurkAPI LinkedIn Profile Viewer](https://lurkapi.com/free-tools/linkedin-profile-viewer) - View a public LinkedIn profile's headline, experience, education, followers and posts as logged-out visitors see them, without signing in or showing up in its profile views. Free for 5 lookups a day.
 
 ### [↑](#-table-of-contents) Telegram
 
