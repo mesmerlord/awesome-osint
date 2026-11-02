@@ -485,6 +485,7 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) TikTok
 * [GetTikVideo](https://gettikvideo.com/tiktok-profile-picture-downloader) - Full-size profile picture and latest public videos from a TikTok profile link; saves public videos, photo posts and stories without an account.
+* [LurkAPI TikTok Comment Viewer](https://lurkapi.com/free-tools/tiktok-comment-viewer) - Read, search and export to CSV the comments and replies on a public TikTok video, with likes, dates and pinned status, without an account. Free for 5 lookups a day.
 * [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
 
 ### [↑](#-table-of-contents) Pinterest
