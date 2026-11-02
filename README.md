@@ -445,6 +445,7 @@ algorithms, knowledgebase and AI technology.
 
 * [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 * [Foller.me](https://foller.me)
+* [LurkAPI Twitter Viewer](https://lurkapi.com/free-tools/twitter-viewer) - View a public X (Twitter) account's tweets with likes, reposts, replies and views, and export them to CSV, without an X account. Free for 5 lookups a day.
 * [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
 * [RiteTag](https://ritetag.com)
 * [Tagdef](https://tagdef.com)
