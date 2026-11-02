@@ -656,6 +656,7 @@ algorithms, knowledgebase and AI technology.
 * [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 * [Helix](https://github.com/thalha-a9/helix) - Check a username on 8,000+ sites, re-verify every hit live against impossible usernames, and graph how the accounts connect.
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
+* [LurkAPI Instagram Username Checker](https://lurkapi.com/free-tools/instagram-username-checker) - Check whether a username is taken on Instagram, see the public profile that holds it, and check the same name on TikTok. Free for 5 lookups a day.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 * [Name Chk](https://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
 * [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
